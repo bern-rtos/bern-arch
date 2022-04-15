@@ -1,3 +1,5 @@
+**This repository moved to https://gitlab.com/bern-rtos/bern-rtos.**
+
 # `bern-arch`
 
 Architecture specific kernel dependencies.
